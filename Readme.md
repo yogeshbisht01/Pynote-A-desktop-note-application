@@ -54,13 +54,13 @@ SYSTEM REQUIREMENTS
 ![image](https://user-images.githubusercontent.com/85386911/174059075-ac956c82-a541-404b-8e8f-b530ad0375f1.png)
 
 # File Menu
-![image](https://user-images.githubusercontent.com/85386911/174058985-11b011cb-3ea8-49cc-b80a-92731ecf492a.png)
+![image](https://user-images.githubusercontent.com/85386911/174059048-acd2de2f-ef49-4f4a-86da-7e47f8558827.png)
 
 # Edit Menu
-
+![image](https://user-images.githubusercontent.com/85386911/174059015-9ac0f59a-1175-4fed-af7d-c50cc28aa6d6.png)
 
 # Themes Menu
-
+![image](https://user-images.githubusercontent.com/85386911/174058985-11b011cb-3ea8-49cc-b80a-92731ecf492a.png)
 
 # In future, the Pynote application can be further developed in many ways. Some of them are -
 
