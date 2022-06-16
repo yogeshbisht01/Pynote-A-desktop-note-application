@@ -1,4 +1,4 @@
-                                                          Pynote - A Desktop Note Application
+                                           Pynote - A Desktop Note Application
 
 A notes application is an essential component of any personnel computer, every day we need to make notes, compose documents and record vital pieces of information.
 
