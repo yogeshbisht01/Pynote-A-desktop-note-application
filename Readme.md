@@ -48,4 +48,4 @@ SYSTEM REQUIREMENTS
 3. Windows 10 OS
 4. Google Account
 
-
+![image](https://user-images.githubusercontent.com/85386911/174058482-9c6d19b2-e98e-44c6-984a-511fb06dcdf5.png)
