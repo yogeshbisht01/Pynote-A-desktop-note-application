@@ -42,7 +42,7 @@ def takecommand():
 filename = "pynote.txt"
 attachment = askopenfile(mode ='r', filetypes =[('Text Files', '*.txt')])
 
-fromaddr = "desktopassistant555@gmail.com"
+fromaddr = "@gmail.com " #add your mail id here
 speak('whom do you want to share')
 toaddr=takecommand()
 toaddr=remove(toaddr)+"@gmail.com"
@@ -87,7 +87,7 @@ s = smtplib.SMTP('smtp.gmail.com', 587)
 s.starttls()
 
 # Authentication
-s.login(fromaddr, "deskassis@555")
+s.login(fromaddr, " ") #add your mail passwrd here, however you can put it here encrypted for security 
 
 # Converts the Multipart msg into a string
 text = msg.as_string()
