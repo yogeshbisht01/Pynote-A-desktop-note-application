@@ -50,8 +50,10 @@ This note application vis completely developed using one of the most powerful la
 
 # Main Interface
 ![image](https://user-images.githubusercontent.com/85386911/174058482-9c6d19b2-e98e-44c6-984a-511fb06dcdf5.png)
+  Light mode
 
 ![image](https://user-images.githubusercontent.com/85386911/174059075-ac956c82-a541-404b-8e8f-b530ad0375f1.png)
+  Dark mode
 
 # File Menu
 ![image](https://user-images.githubusercontent.com/85386911/174059048-acd2de2f-ef49-4f4a-86da-7e47f8558827.png)
