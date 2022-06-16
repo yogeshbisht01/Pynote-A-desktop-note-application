@@ -8,7 +8,7 @@ In this application, you can create notes or text documents easily. This applica
 
 This note application vis completely developed using one of the most powerful language python.
 
-FEATURES
+#Features
 
 ✔ Smart UI, so that user can easily access things without waste of time & effort.
 
@@ -23,7 +23,7 @@ FEATURES
 ✔ Sharing feature, to share notes easily with anyone.
 
 
-MODULES USED
+#Modules Used
 
 • Tkinter
 • OS
@@ -35,7 +35,7 @@ MODULES USED
 • Pydrive
 • Requests
 
-SYSTEM REQUIREMENTS
+#System Requirements
 
 ❑ HARDWARE :-
 1. Computer with good internet connectivity.
