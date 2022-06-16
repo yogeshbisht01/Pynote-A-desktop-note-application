@@ -51,14 +51,16 @@ SYSTEM REQUIREMENTS
 # Main Interface
 ![image](https://user-images.githubusercontent.com/85386911/174058482-9c6d19b2-e98e-44c6-984a-511fb06dcdf5.png)
 
+![image](https://user-images.githubusercontent.com/85386911/174059075-ac956c82-a541-404b-8e8f-b530ad0375f1.png)
+
 # File Menu
 ![image](https://user-images.githubusercontent.com/85386911/174058985-11b011cb-3ea8-49cc-b80a-92731ecf492a.png)
 
 # Edit Menu
 
+
 # Themes Menu
 
-# About window
 
 # In future, the Pynote application can be further developed in many ways. Some of them are -
 
