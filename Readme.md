@@ -48,22 +48,20 @@ SYSTEM REQUIREMENTS
 3. Windows 10 OS
 4. Google Account
 
-Main Interface
+# Main Interface
 ![image](https://user-images.githubusercontent.com/85386911/174058482-9c6d19b2-e98e-44c6-984a-511fb06dcdf5.png)
 
-MENU BAR
+# File Menu
+![image](https://user-images.githubusercontent.com/85386911/174058985-11b011cb-3ea8-49cc-b80a-92731ecf492a.png)
 
-File Menu
+# Edit Menu
 
-Edit Menu
+# Themes Menu
 
-Themes Menu
+# About window
 
-About window
+# In future, the Pynote application can be further developed in many ways. Some of them are -
 
-IMPLICATIONS FOR FUTURE RESEARCH
-# In future, the Pynote application can be further developed in many ways. Some of
-them are -
 1. Advanced text tool features can be added like text corrector, text summarizer.
 2. Can make interface more user-friendly.
 3. Can increase capability of Voice Recognition to write note handsfree.
