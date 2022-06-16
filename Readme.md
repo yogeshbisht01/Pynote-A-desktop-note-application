@@ -1,4 +1,4 @@
-                                           Pynote - A Desktop Note Application
+# Pynote - A Desktop Note Application
 
 A notes application is an essential component of any personnel computer, every day we need to make notes, compose documents and record vital pieces of information.
 
@@ -8,7 +8,7 @@ In this application, you can create notes or text documents easily. This applica
 
 This note application vis completely developed using one of the most powerful language python.
 
-#Features
+# Features
 
 ✔ Smart UI, so that user can easily access things without waste of time & effort.
 
@@ -23,7 +23,7 @@ This note application vis completely developed using one of the most powerful la
 ✔ Sharing feature, to share notes easily with anyone.
 
 
-#Modules Used
+# Modules Used
 
 • Tkinter
 • OS
@@ -35,7 +35,7 @@ This note application vis completely developed using one of the most powerful la
 • Pydrive
 • Requests
 
-#System Requirements
+# System Requirements
 
 ❑ HARDWARE :-
 1. Computer with good internet connectivity.
